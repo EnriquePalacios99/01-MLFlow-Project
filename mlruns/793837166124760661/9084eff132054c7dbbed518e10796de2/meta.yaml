@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/01-MLFlow-Project/mlruns/793837166124760661/9084eff132054c7dbbed518e10796de2/artifacts
+end_time: 1752449001648
+entry_point_name: ''
+experiment_id: '793837166124760661'
+lifecycle_stage: active
+run_id: 9084eff132054c7dbbed518e10796de2
+run_name: polite-doe-760
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752448997917
+status: 3
+tags: []
+user_id: codespace
