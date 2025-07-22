@@ -1,0 +1,10 @@
+artifact_location: file:///workspaces/01-MLFlow-Project/mlruns/845544326787574135/models/m-942de2adf62c4b7c9b6584b53d387e32/artifacts
+creation_timestamp: 1753144571537
+experiment_id: '845544326787574135'
+last_updated_timestamp: 1753144573796
+model_id: m-942de2adf62c4b7c9b6584b53d387e32
+model_type: null
+name: vechiular-model
+source_run_id: 1025db06930044eab005aa2bd6ce029d
+status: 2
+status_message: null

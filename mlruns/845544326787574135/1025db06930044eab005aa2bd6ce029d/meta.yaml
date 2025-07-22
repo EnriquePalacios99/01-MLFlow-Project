@@ -1,0 +1,14 @@
+artifact_uri: file:///workspaces/01-MLFlow-Project/mlruns/845544326787574135/1025db06930044eab005aa2bd6ce029d/artifacts
+end_time: 1753144573811
+entry_point_name: ''
+experiment_id: '845544326787574135'
+lifecycle_stage: active
+run_id: 1025db06930044eab005aa2bd6ce029d
+run_name: receptive-fawn-935
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753144571504
+status: 3
+tags: []
+user_id: codespace
